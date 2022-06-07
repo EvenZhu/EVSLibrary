@@ -1,0 +1,6 @@
+framework module EVSLibrary {
+  umbrella header "EVSLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}

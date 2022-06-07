@@ -1,0 +1,6 @@
+framework module Pods_EVSLibrary_Example {
+  umbrella header "Pods-EVSLibrary_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
